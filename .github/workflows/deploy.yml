@@ -18,7 +18,7 @@ jobs:
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
-      - name: Get Code
+      - name: Get Codes
         uses: actions/checkout@v3
       - name: Cache dependencies
         uses: actions/cache@v3
