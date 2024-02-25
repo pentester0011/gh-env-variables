@@ -13,7 +13,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.rpvas.mongodb.net
       MONGODB_USERNAME: parastoo
-      MONGODB_PASSWORD: parastoo
+      MONGODB_PASSWORD: AmzjaA4Bxbm7ja3X
       PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
